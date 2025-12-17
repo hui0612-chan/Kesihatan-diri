@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kesihatan Diri</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f7f7f7;
+        }
+
+        header {
+            background: #008080;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+
+        h2 {
+            color: #008080;
+        }
+
+        ul li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Panduan Kesihatan Diri</h1>
+        <p>Menjaga diri bermula dari kebiasaan harian</p>
+    </header>
+
+    <div class="container">
+
+        <div class="section">
+            <h2>1. Pemakanan Sihat</h2>
+            <ul>
+                <li>Ambil lebih buah-buahan dan sayur-sayuran setiap hari.</li>
+                <li>Kurangkan makanan berminyak, bergula dan tinggi garam.</li>
+                <li>Minum air secukupnya (6–8 gelas sehari).</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>2. Aktiviti Fizikal</h2>
+            <ul>
+                <li>Lakukan sekurang-kurangnya 30 minit senaman ringan sehari.</li>
+                <li>Pilih aktiviti seperti berjalan, berbasikal atau regangan.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>3. Kesihatan Mental</h2>
+            <ul>
+                <li>Pastikan tidur cukup 7–9 jam setiap malam.</li>
+                <li>Ambil masa rehat untuk mengurangkan tekanan.</li>
+                <li>Cerita dengan seseorang jika rasa tertekan atau cemas.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>4. Kebersihan Diri</h2>
+            <ul>
+                <li>Mandi sekurang-kurangnya 1–2 kali sehari.</li>
+                <li>Cuci tangan sebelum makan dan selepas keluar tandas.</li>
+                <li>Pastikan kuku, rambut dan pakaian sentiasa bersih.</li>
+            </ul>
+        </div>
+
+    </div>
+
+</body>
+</html>
